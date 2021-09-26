@@ -9,6 +9,8 @@ Program pisany hobbystycznie dla zabawy w ramach nauki programowania i cchęci s
 
 Na razie jest obsługiwana tylko jedna w przyszłości mam zamiar stworzyć uniwersalne profile g-codów
 
+        Plik holenc.zip zawiera skompilowany program
+
 Obsługiwane pliki;
 
         DXF (odczyt)
@@ -27,3 +29,5 @@ Funkcję edycji X i Y
 Instrukcja programu jeszcze nienapisana
 
 Wersja we wczesnej fazie ZAWIERA BŁĘDY.
+
+ 
