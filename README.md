@@ -3,28 +3,27 @@ Support program for editind g-code on Small Hole EDM Drilling Machine
 
 {PL}
 
-Program pisany hobbystycnie dla zabawy w ramach nauki programowania ic heci stworzenia czegoś praktycznego :)
+Program pisany hobbystycznie dla zabawy w ramach nauki programowania i cchęci stworzenia czegoś praktycznego :)
 
-  Program wspomagający edycje g-code dla maszyn EDM.
+        Program wspomagający edycje g-code dla maszyn EDM.
 
-Na razie jest obsługiwana tylko jedna w przysłości mam zamar stwrzyć uniwersalne profile gcodów
+Na razie jest obsługiwana tylko jedna w przyszłości mam zamiar stworzyć uniwersalne profile g-codów
 
-Obsłógiwane pliki;
+Obsługiwane pliki;
 
         DXF (odczyt)
         TXT (odczyt)
         .nc (Odczyt, generowanie)
-        
-Funkcie edycji X i Y 
-        
-        Dodaj 
+
+Funkcję edycji X i Y
+
+        Dodaj
         Usuń
         Przesuń
         Kopiuj
         Lustro
-        Rotcja 
-        
-        
-Instrukca programu jescze nienapiana 
+        Rotacja
 
-Wersja w wczesnej fazie ZAWIERA BŁĘDY 
+Instrukcja programu jeszcze nienapisana
+
+Wersja we wczesnej fazie ZAWIERA BŁĘDY.
